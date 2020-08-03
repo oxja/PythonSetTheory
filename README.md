@@ -1,6 +1,4 @@
 # PythonSetTheory
-CS130 tool, recognises set relations and evaluates logical statements.
-
 To use, import the library:
 
 `from setRelations import *`
