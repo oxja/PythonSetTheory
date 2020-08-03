@@ -3,7 +3,7 @@ To use, import the library:
 
 `from setRelations import *`
 
-Sets are denoted similarly to lists, with the empty set depicted as []:
+Sets are defined similarly to lists, with the empty set depicted as []:
 
 `S = ["a", "b", "c", []]`
 
